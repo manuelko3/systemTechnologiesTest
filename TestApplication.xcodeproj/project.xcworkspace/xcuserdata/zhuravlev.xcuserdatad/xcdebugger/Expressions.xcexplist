@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in SettingsViewController.tableView(_:didSelectRowAt:):SettingsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "$0.0 == newCurrency.0 &amp;&amp; $0.0 == newCurrency.1">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.viewDidAppear(_:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "baseCurrency">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.collectionView(_:numberOfItemsInSection:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "baseCurrency.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SettingsViewController.tableView(_:didSelectRowAt:):SettingsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "filterCurrency">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1E6F8919-C758-4AF7-9315-31D67940A6FA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "874D6F6D-ABB4-4D32-8DB0-2F60D7614D49"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestApplication/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "getCurrencyRates(baseCurrency:completion:failed:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D82DE3B9-8926-4FC2-84BD-542EB542DFDB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestApplication/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "getCurrencyRates(baseCurrency:completion:failed:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D82DE3B9-8926-4FC2-84BD-542EB542DFDB - 91c3aa788379aa40"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static TestApplication.Network.getCurrencyRates(baseCurrency: Swift.String, completion: (TestApplication.Currencies) -&gt; (), failed: (Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "TestApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eugenepolupanov/Downloads/systemTechnologiesTestTask-master/TestApplication/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "1854">
+               </Location>
+               <Location
+                  uuid = "D82DE3B9-8926-4FC2-84BD-542EB542DFDB - 91c3aa788379aa40"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static TestApplication.Network.getCurrencyRates(baseCurrency: Swift.String, completion: (TestApplication.Currencies) -&gt; (), failed: (Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "TestApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eugenepolupanov/Downloads/systemTechnologiesTestTask-master/TestApplication/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "1997">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
