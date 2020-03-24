@@ -58,7 +58,7 @@ class MainViewController: UIViewController {
             }
         }) { (error) in
             DispatchQueue.main.async {
-                let alert = UIAlertController(title: "Error", message: " ", preferredStyle: .alert)
+                let alert = UIAlertController(title: "Error", message: "Unexpected error", preferredStyle: .alert)
                 alert.addAction(UIAlertAction(title: "OK", style: .default, handler: nil))
                 self.present(alert, animated: true)
             }
